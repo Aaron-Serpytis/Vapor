@@ -1,0 +1,9 @@
+node_modules
+build
+dist
+
+.env
+*.pem
+*.key
+*.db
+.DS_Store
